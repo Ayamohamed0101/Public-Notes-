@@ -1,0 +1,11 @@
+
+# Object Instance VS Object Handle
+
+> [!NOTE]
+
+The ObjectHandle class is used to pass an object (in a wrapped state)
+between multiple application domains without loading the metadata for the wrapped object
+in each AppDomain through which the ObjectHandle travels.
+
+> [!IMPORTANT]
+Thus, the ObjectHandle class gives the caller control of when the Type of the remote object is loaded into a domain
