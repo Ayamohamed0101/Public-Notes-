@@ -9,5 +9,9 @@
 
 
 #  Multithreading
+# RegisterVariable
+![image](https://github.com/Ayamohamed0101/Public-Notes-/assets/152428721/536dd909-9e68-4a7d-8011-3aa9d0a56517)
 
+# StackVSHeap
+![image](https://github.com/Ayamohamed0101/Public-Notes-/assets/152428721/71ee2deb-ebce-4502-98a7-1effe72bf27f)
 
