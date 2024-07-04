@@ -15,3 +15,8 @@
 # StackVSHeap
 ![image](https://github.com/Ayamohamed0101/Public-Notes-/assets/152428721/71ee2deb-ebce-4502-98a7-1effe72bf27f)
 
+## jagged array VS MultiDimensional Array
+- performance of jagged array is better than MultiDimensional array
+## Note
+### Array  is Reference Type ==> variable is stored in stack and value is stored in heap
+
