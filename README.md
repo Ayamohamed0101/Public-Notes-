@@ -1,3 +1,12 @@
+
+## Important to Know :)
+ ![image](https://github.com/user-attachments/assets/ba7c1204-233b-40b2-a08c-e4f611bd65b4)
+## video 🥇
+https://youtu.be/30nBIFAoGNA?feature=shared
+## slides🥈
+https://docs.google.com/presentation/d/1BWHH1-IedVwx9kRFHBL_9oJmDoWXUot_or9xmzlf2XA/edit#slide=id.g2e5e4a20800_0_144
+
+# _____________________________________________________________________________________________________________
 # 3 processes
 ## just-in-time compiler (JIT)
 
