@@ -6,7 +6,15 @@ https://youtu.be/30nBIFAoGNA?feature=shared
 ## slides🥈
 https://docs.google.com/presentation/d/1BWHH1-IedVwx9kRFHBL_9oJmDoWXUot_or9xmzlf2XA/edit#slide=id.g2e5e4a20800_0_144
 
-# _____________________________________________________________________________________________________________
+# ______________________________________________________________________________________
+
+String Builder ⏰
+### Designed for better performance in scenarios where you need to concatenate or modify strings frequently.
+### Methods for Modification:
+###  -  StringBuilder provides methods like Append, Insert, Remove, and Replace
+
+# ______________________________________________________________________________________
+
 # 3 processes
 ## just-in-time compiler (JIT)
 
